@@ -36,8 +36,8 @@ SubtitleTranslate_DeepLX is an open-source project that provides real-time subti
 4. **Load the extension in otPlayer**
     - Open PotPlayer.
     - Right-click on the playback interface and select "Subtitles" -> check "Show Subtitles" to ensure subtitles are - loaded.
-    - Then, go to "Options" -> "Extension" -> "Real-time Subtitle Translation".
-    - Set the translation engine to SubtitleTranslate_DeepLX and configure the corresponding API URL.
+    - Then, Right-click on the playback interface and select "Subtitles" -> "Subtitle Translation" -> "Online Subtitle Translation Settings.."
+    - Configure the corresponding API URL.
 
 ## Contributing
 Contributions are welcome! If you have suggestions, bug reports, or improvements, please open an issue or submit a pull request.
